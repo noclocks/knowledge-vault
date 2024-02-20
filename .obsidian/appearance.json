@@ -1,0 +1,16 @@
+{
+  "cssTheme": "VSCoder",
+  "accentColor": "#99f55c",
+  "enabledCssSnippets": [
+    "code",
+    "common",
+    "contact",
+    "daily",
+    "dashboard",
+    "moc",
+    "todoist"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 14,
+  "translucency": false
+}

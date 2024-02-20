@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-INBOX",
+  "livePreview": false
+}

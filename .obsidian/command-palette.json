@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "file-explorer:new-file-in-new-pane",
+    "graph:open-local",
+    "workspace:split-vertical",
+    "table-editor-obsidian:format-all-tables",
+    "workspace:copy-path",
+    "file-recovery:open"
+  ]
+}
