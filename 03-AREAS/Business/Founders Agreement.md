@@ -1,0 +1,3 @@
+A [founders agreement](https://clara.co/startup-legal-documents/founders-agreement/) details each founder’s commitments, roles, contributions, and any equity, including vesting agreements. 
+
+Founders agreements are essential to set out roles, responsibilities, expectations, and equity split. A clear document avoids potential future disputes. A founders’ agreement is also a way to prevent a situation where founders want to unfairly keep all their equity if they want to leave the venture earlier than anticipated. It ensures that the founder is also subject to vesting.

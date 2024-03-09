@@ -1,5 +1,5 @@
 ---
-creation_date: 2024-02-20
+creation_date: 2024-03-05
 modification_date: 2024-03-05
 author: Jimmy Briggs <jimmy.briggs@jimbrig.com>
 tags:
@@ -7,14 +7,14 @@ tags:
   - Topic/Meta
   - Status/Ongoing
 aliases:
-  - Business
-  - Business Readme
+  - Agendas
+  - Agendas Readme
 publish: true
 cssclasses:
   - readme
 ---
 
-# Business
+# Agendas
 
 ## Contents
 
@@ -34,13 +34,13 @@ debugInConsole: false
 ## Notes
 
 ```dataview
-LIST FROM "03-AREAS/Business" AND -"CHANGELOG" AND -"03-AREAS/Business/_README"
+LIST FROM "03-AREAS/Agendas" AND -"CHANGELOG" AND -"03-AREAS/Agendas/_README"
 ```
 
 ***
 
-*Note created on [[2024-02-20]] and last modified on [[2024-03-05]].*
+*Note created on [[2024-03-05]] and last modified on [[2024-03-05]].*
 
 ```dataview
-list from [[_README]] AND -"CHANGELOG" AND -"03-AREAS/Business/_README"
+list from [[_README]] AND -"CHANGELOG" AND -"03-AREAS/Agendas/_README"
 ```
