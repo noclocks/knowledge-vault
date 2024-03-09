@@ -16,22 +16,6 @@
     <a href="https://github.com/jimbrig/kaas">GitHub Repo</a>
 </p>
 <h4 align="center">Curated Knowledge for the Masses</h4>
-<h5 align="center">Created by <a href="https://github.com/jimbrig">Jimmy Briggs</a></h5>
-<p align="center">
-    <img src="https://i.imgur.com/FB2il3N.png"; height="50%"; width="50%"/>
-</p>
-<br>
-<p align="center">
-    <a href="https://github.com/jimbrig/KaaS/actions/workflows/convert-links.yml">
-        <img src="https://github.com/jimbrig/KaaS/actions/workflows/convert-links.yml/badge.svg"></img>
-    </a>
-    <a href="https://github.com/jimbrig/KaaS/actions/workflows/mkdocs.yml">
-        <img src="https://github.com/jimbrig/KaaS/actions/workflows/mkdocs.yml/badge.svg"></img>
-    </a>
-    <a href="https://github.com/jimbrig/KaaS/actions/workflows/pages/pages-build-deployment">
-        <img src="https://github.com/jimbrig/KaaS/actions/workflows/pages/pages-build-deployment/badge.svg"></img>
-    </a>
-</p>
 
 ## Welcome
 
@@ -96,24 +80,6 @@ Utilize *Maps of Content* (MOCs) to navigate the vault efficiently:
 
 Some Maps of Content to consider are:
 
-* [Actuarial Science](2-Areas/MOCs/Actuarial%20Science.md)
-* [Development](2-Areas/MOCs/Development.md)
-  * [Data Science](2-Areas/MOCs/Data%20Science.md)
-  * [Data Engineering](2-Areas/MOCs/Data%20Engineering.md)
-  * [Databases](2-Areas/MOCs/Databases.md)
-  * [Web Development](2-Areas/MOCs/Web%20Development.md)
-  * [Software Development](2-Areas/MOCs/Software%20Development.md)
-  * [R](2-Areas/Code/R/R.md)
-  * [R Shiny](2-Areas/MOCs/R%20Shiny.md)
-  * [Python](2-Areas/Code/Python/Python.md)
-  * [PowerShell](2-Areas/Code/PowerShell/PowerShell.md)
-* [Productivity](2-Areas/MOCs/Productivity.md)
-* [Personal Knowledge Management](2-Areas/MOCs/Personal%20Knowledge%20Management.md)
-* [Mathematics and Statistics](2-Areas/MOCs/Mathematics%20and%20Statistics.md)
-* [Finance](2-Areas/MOCs/Finance.md)
-
-The others are still works in progress as I collect and curate more notes into the vault.
-
 ## Content
 
 The vault has a variety of content including, but not limited to:
@@ -146,104 +112,6 @@ And More!
 ### Code Snippets
 
 See the *Code* folder's README for details on all of the code snippets included inside this vault.
-
-Currently I have code snippets for the following categories:
-
-* *PowerShell* (Core)
-
-* *Python*
-
-* *R*
-
-* *SQL Code*
-
-  * *SQL - General*
-  * *PostgreSQL SQL Code Snippets*
-  * *SQL Server*
-  * *BigQuery*
-* *Windows*
-
-  * *Miscellaneous*
-  * *Batch*
-  * *Windows Command Line*
-  * *Run*
-  * *Registry*
-  * *VBA*
-  * *Windows PowerShell*
-
-Plus:
-
-* *Bash*
-* *CSS*
-* *GitHub Actions*
-* *Javascript Code*
-* *Pandoc*
-
-### Lists
-
-Under *2-Areas/Lists* I have curated lists for various topics you may find helpful:
-
-*Lists*:
-
-* [Actuarial Development Master Resource List](2-Areas/Lists/Actuarial%20Development%20Master%20Resource%20List.md)
-* [Advanced Programming Concepts List](2-Areas/Lists/Advanced%20Programming%20Concepts%20List.md)
-* [AWS Components Master List](2-Areas/Lists/AWS%20Components%20Master%20List.md)
-* [Command Line Tools List](2-Areas/Lists/CLI%20Tools%20List.md)
-* [Data Engineering Master List of Resources](2-Areas/Lists/Data%20Engineering%20Master%20List%20of%20Resources.md)
-* [Database GUIs List](2-Areas/Lists/Database%20GUIs%20List.md)
-* [Database Modeling Tools](2-Areas/Lists/Database%20Modeling%20Tools.md)
-* [Excel Automation Resources](2-Areas/Lists/Excel%20Automation%20Resources.md)
-* [Learn to Code Platforms Master List](2-Areas/Lists/Learn%20to%20Code%20Platforms%20Master%20List.md)
-* [REST API Resources List](2-Areas/Lists/REST%20API%20Resources%20List.md)
-* [Learn to Code Platforms Master List](2-Areas/Lists/Learn%20to%20Code%20Platforms%20Master%20List.md)
-* [List of Python Flask Resources](2-Areas/Lists/List%20of%20Python%20Flask%20Resources.md)
-* [Obsidian Plugins List](2-Areas/Lists/Obsidian%20Plugins%20List.md)
-* [Online Developer Tools List](2-Areas/Lists/Online%20Developer%20Tools%20List.md)
-* [Awesome R Package Development List](2-Areas/Lists/Awesome%20R%20Package%20Development%20List.md)
-* [Productivity Apps List](2-Areas/Lists/Productivity%20Apps%20List.md)
-* [R - Database Packages List](2-Areas/Lists/R%20-%20Database%20Packages%20List.md)
-* [Online Developer Tools List](2-Areas/Lists/Online%20Developer%20Tools%20List.md)
-* [Ten Step GTD Setup List](2-Areas/Lists/Ten%20Step%20GTD%20Setup%20List.md)
-* [SQL Server List of Tools and Scripts](2-Areas/Lists/SQL%20Server%20List%20of%20Tools%20and%20Scripts.md)
-* [R Shiny Packages List](2-Areas/Lists/R%20Shiny%20Packages%20List.md)
-* [R Package Development Resources List](2-Areas/Lists/R%20Package%20Development%20Resources%20List.md)
-* [R on the Web - List of Links](2-Areas/Lists/R%20on%20the%20Web%20-%20List%20of%20Links.md)
-
-### Tools
-
-See *Tools* for a vast listing of useful tools I've come across split into categories:
-
-* *Developer Tools*
-  * *Cloud Services*
-    * *AWS*
-    * *Azure*
-    * *GCP*
-  * *Command Line Utilities*
-  * *Data Stack*
-    * *Business Intelligence*
-    * *Database GUI*
-    * *Databases*
-    * *Procedural Languages*
-    * *Miscellaneous*
-  * *Docker*
-  * *Documentation*
-    * *Static Site Generators*
-    * *Text Editors*
-    * *Utility*
-  * *IDE*
-  * *Languages*
-    * *JavaScript*
-    * *PowerShell*
-    * *Python*
-    * *R*
-  * *Linux*
-  * *Package Managers*
-  * *Shell*
-  * *Terminal*
-  * *Version Control*
-  * *Websites and Online Tools*
-
-And many others!
 
 ---
 
