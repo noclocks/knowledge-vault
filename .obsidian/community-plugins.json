@@ -25,5 +25,13 @@
   "sync-graph-settings",
   "table-editor-obsidian",
   "calendar",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-excalidraw-plugin",
+  "obsidian-linter",
+  "mermaid-tools",
+  "settings-search",
+  "obsidian-textgenerator-plugin",
+  "smart-connections",
+  "copilot",
+  "file-tree-generator"
 ]

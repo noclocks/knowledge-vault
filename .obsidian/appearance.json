@@ -1,6 +1,6 @@
 {
   "cssTheme": "VSCoder",
-  "accentColor": "#99f55c",
+  "accentColor": "#5cdbf5",
   "enabledCssSnippets": [
     "code",
     "common",
@@ -9,9 +9,12 @@
     "dashboard",
     "moc",
     "todoist",
-    "mermaid"
+    "mermaid",
+    "readme",
+    "tool"
   ],
   "theme": "obsidian",
   "baseFontSize": 14,
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true
 }

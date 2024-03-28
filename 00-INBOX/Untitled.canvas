@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"7d918212581e562c","x":238,"y":-241,"width":250,"height":60,"type":"text","text":"Photography"},
+		{"id":"a2fcf2e28784e787","x":-654,"y":-154,"width":250,"height":60,"type":"text","text":"Graphic Elements"},
+		{"id":"692508f436f5c257","x":-331,"y":-154,"width":250,"height":60,"type":"text","text":"Iconography"},
+		{"id":"734fd39732601828","x":-529,"y":-40,"width":250,"height":60,"type":"text","text":"Examples & Inspiration"},
+		{"id":"7298dc61a1ec45b3","x":-206,"y":-40,"width":250,"height":60,"type":"text","text":"Templates & Layouts"},
+		{"id":"4944206aff713ca7","x":200,"y":-70,"width":250,"height":60,"type":"text","text":"Guidelines"},
+		{"id":"1636bb2785f9627d","x":-96,"y":-158,"width":250,"height":60,"type":"text","text":"Illustrations"},
+		{"id":"cb6862b261fe7d0c","x":261,"y":-137,"width":250,"height":60,"type":"text","text":"Icons"},
+		{"id":"e8eca03c81d353be","x":116,"y":21,"width":250,"height":60,"type":"text","text":"Patterns & Textures"},
+		{"id":"f5925859b4f11836","x":-255,"y":65,"width":250,"height":60,"type":"text","text":"Backgrounds"},
+		{"id":"772620fb35226d8b","x":22,"y":126,"width":250,"height":60,"type":"text","text":"Video"},
+		{"id":"dbb4d82784dada14","x":-659,"y":120,"width":250,"height":60,"type":"text","text":"Animation"},
+		{"id":"a95c150dd4993d5a","x":-447,"y":138,"width":250,"height":60,"type":"text","text":"Infographics"},
+		{"id":"ba1066d33352ada8","x":-252,"y":-660,"width":406,"height":50,"color":"1","type":"text","text":"What are the Key Elements of a Brand Kit?"},
+		{"id":"c0426ea21dc20406","x":-820,"y":-580,"width":120,"height":60,"type":"text","text":"Tagline"},
+		{"id":"ecd4bdb891ee30a8","x":-700,"y":-580,"width":125,"height":60,"type":"text","text":"Logos"},
+		{"id":"cb20378fb6442c21","x":-575,"y":-580,"width":180,"height":60,"type":"text","text":"Color Schemes"},
+		{"id":"fcffcde9054b7b7b","x":-396,"y":-580,"width":149,"height":60,"type":"text","text":"Typography"},
+		{"id":"2928b826c57c06f3","x":-768,"y":-502,"width":250,"height":60,"type":"text","text":"Primary Logo"}
+	],
+	"edges":[
+		{"id":"ab43d7aeab60f6d6","fromNode":"ba1066d33352ada8","fromSide":"bottom","toNode":"c0426ea21dc20406","toSide":"top"},
+		{"id":"10f8f2f1249791b5","fromNode":"ba1066d33352ada8","fromSide":"bottom","toNode":"ecd4bdb891ee30a8","toSide":"top"},
+		{"id":"3786e16bb5be29ae","fromNode":"ba1066d33352ada8","fromSide":"bottom","toNode":"cb20378fb6442c21","toSide":"top"},
+		{"id":"336248f721a7ce68","fromNode":"ecd4bdb891ee30a8","fromSide":"bottom","toNode":"2928b826c57c06f3","toSide":"top"}
+	]
+}

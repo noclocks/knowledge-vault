@@ -11,6 +11,7 @@
 * It contains specific CSS styles to control the layout and formatting of various elements within the dashboard.
 */
 
+/**
 .dashboard {
     display: flex;
     flex-direction: column;
@@ -57,12 +58,10 @@
     width: 15%;
 }
 
-/* Get rid of the parent bullet */
 .dashboard div.markdown-preview-section>div>ul>li>div.list-bullet {
     display: none !important;
 }
 
-/* Remove the indentation guide lines */
 .dashboard.markdown-rendered.show-indentation-guide li>ul::before,
 .dashboard.markdown-rendered.show-indentation-guide li>ol::before {
     display: none;
@@ -123,3 +122,5 @@ div.markdown-preview-section>div>ul.has-list-bullet>li {
 .dashboard.markdown-preview-view .metadata-container {
     display: none !important;
 }
+
+*/
