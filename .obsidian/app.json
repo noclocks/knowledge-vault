@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "00-INBOX",
-  "livePreview": false
+  "livePreview": false,
+  "tabSize": 2
 }
