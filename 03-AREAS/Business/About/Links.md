@@ -1,2 +1,3 @@
-- **Google Reviews Link**: https://g.page/r/CTX5O1VqntCNEB0/review
-- 
+- **Google Reviews Links**: 
+	- https://g.page/r/CTX5O1VqntCNEB0/review
+	- https://search.google.com/local/writereview?placeid=ChIJ3w4-kfdfVEoRNfk7VWqe0I0
